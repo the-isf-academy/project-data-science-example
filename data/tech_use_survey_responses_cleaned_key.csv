@@ -1,0 +1,57 @@
+,label,survey_question,data_type
+0.0,timestamp,Timestamp,object
+1.0,grade,Which grade are you in?,int64
+2.0,gender,What is your gender?,object
+3.0,num_courses,How many courses are you enrolled in at ISF?,float64
+4.0,num_cca,How many CCAs are you enrolled in?,float64
+5.0,num_homework_hours_per_day,How many hours in a day on average do you spend on homework? ,float64
+6.0,num_after_school_activities_per_week,How many after school activities do you do outside of school per week?,float64
+7.0,parental_controls_enabled,Do you have parental controls on any of your electronic devices?,object
+,parental_controls_app_restrictions_enabled,,object
+,parental_controls_screen_time_limits_enabled,,object
+,parental_controls_purchase_restrictions_enabled,,object
+9.0,time_allowed_on_sm_by_parents_per_day,How much time do your parents allow you to use social media in a day? ,object
+10.0,num_personal_electronic_devices,How many personal electronic devices do you have?,float64
+11.0,age_got_phone,At what age did you get a phone?,float64
+12.0,time_on_apps_per_week_self_report_social,"How much time do you think you spent on the following kinds of apps per day on average last week?  [Social (Instagram, Reddit, etc.)]",object
+13.0,time_on_apps_per_week_self_report_productivity,"How much time do you think you spent on the following kinds of apps per day on average last week?  [Productivity (Mail, Calendar, etc.)]",object
+14.0,time_on_apps_per_week_self_report_games,"How much time do you think you spent on the following kinds of apps per day on average last week?  [Games (Among Us, Clash of Clans etc)]",object
+15.0,time_on_apps_per_week_self_report_education,"How much time do you think you spent on the following kinds of apps per day on average last week?  [Education (Duolingo, Khan Academy, etc.)]",object
+16.0,time_on_apps_per_week_self_report_entertainment,"How much time do you think you spent on the following kinds of apps per day on average last week?  [Entertainment (Spotify, Netflix, etc)]",object
+17.0,use_non_laptop_device_at_school,Do you use a device other than your laptop during school hours?,object
+,use_non_laptop_device_blk_1,,object
+,use_non_laptop_device_blk_2,,object
+,use_non_laptop_device_recess,,object
+,use_non_laptop_device_blk_3,,object
+,use_non_laptop_device_lunch,,object
+,use_non_laptop_device_blk_4,,object
+,use_non_laptop_device_blk_5,,object
+19.0,email_checks_per_week,How often do you check your school email each week? ,object
+20.0,phone_pickups_per_day,On average how many times do you pick up your phone per day? ,float64
+21.0,phone_screen_time_per_week,What was your average screen time on your phone last week (in hours)? ,float64
+22.0,time_phone_most_used_day,When do you use your phone the most in a day?,object
+23.0,time_phone_most_used_week,"On average, do you use your phone more on school days or days when you are not in school? ",object
+24.0,time_on_apps_per_week_screen_time_social,"According to your screen time data, how much time did you spend on the following kinds of apps per day on average last week?  [Social]",object
+25.0,time_on_apps_per_week_screen_time_productivity,"According to your screen time data, how much time did you spend on the following kinds of apps per day on average last week?  [Productivity]",object
+26.0,time_on_apps_per_week_screen_time_games,"According to your screen time data, how much time did you spend on the following kinds of apps per day on average last week?  [Games]",object
+27.0,time_on_apps_per_week_screen_time_education,"According to your screen time data, how much time did you spend on the following kinds of apps per day on average last week?  [Education]",object
+28.0,time_on_apps_per_week_screen_time_entertainment,"According to your screen time data, how much time did you spend on the following kinds of apps per day on average last week?  [Entertainment]",object
+29.0,most_used_phone_app,What is your most used app on your phone? ,object
+30.0,sm_creation_age,How old were you when you first created a social media account? ,float64
+31.0,parent_oversee_sm_account_creation,Did your parents oversee the account creation?,object
+,sm_accounts_twitter,,bool
+,sm_accounts_facebook,,bool
+,sm_accounts_instagram,,bool
+,sm_accounts_youtube,,bool
+,sm_accounts_discord,,bool
+,sm_accounts_other,,bool
+,sm_accounts_none,,bool
+33.0,most_used_sm_platforms,Which platforms do you the most? ,object
+35.0,time_rest_eyes_after_screen_use,How often do you rest your eyes after using an electronic device?,object
+36.0,time_stop_use_before_sleep,"On average, how long before sleeping do you stop looking at your devices? (in minutes)",float64
+37.0,time_start_use_after_wakeup,"On average, how soon do you look at a tech device after waking up? (in minutes)",float64
+38.0,sm_activity_frequency_comp_leave_house,"For each of the activities, compare how frequently you did the activity before getting social media with how frequently you do the activity now. [Leave the house]",object
+39.0,sm_activity_frequency_comp_exercise,"For each of the activities, compare how frequently you did the activity before getting social media with how frequently you do the activity now. [Exercise]",object
+40.0,sm_activity_frequency_comp_social_anxiety,"For each of the activities, compare how frequently you did the activity before getting social media with how frequently you do the activity now. [Feel anxious in a social situation]",object
+41.0,sm_activity_frequency_comp_social_confidence,"For each of the activities, compare how frequently you did the activity before getting social media with how frequently you do the activity now. [Feel confident in a social situation]",object
+42.0,sm_activity_frequency_comp_community_connection,"For each of the activities, compare how frequently you did the activity before getting social media with how frequently you do the activity now. [Feel connected to a community]",object
